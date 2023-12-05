@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/swap.h
+iostream
+-
+
+/home/xiaoer/c++_work/demo2_p/main.cpp
+iostream
+-
+swap.h
+/home/xiaoer/c++_work/demo2_p/swap.h
+
+/home/xiaoer/c++_work/demo2_p/src/swap.cpp
+swap.h
+/home/xiaoer/c++_work/demo2_p/src/swap.h
+

@@ -1,0 +1,3 @@
+/home/xiaoer/c++_work/demo2_p/build/CMakeFiles/edit_cache.dir
+/home/xiaoer/c++_work/demo2_p/build/CMakeFiles/rebuild_cache.dir
+/home/xiaoer/c++_work/demo2_p/build/CMakeFiles/main_cmake.dir
